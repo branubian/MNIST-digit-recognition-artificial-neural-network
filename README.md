@@ -1,6 +1,6 @@
 # MNIST digit recognition artificial neural network from scratch
 
-Artificial neural network built from scratch without using pytorch, keras or other machine learning libraries.
+Artificial neural network built from scratch without using pytorch, keras or other machine learning libraries to better gain comprehension of the math behind machine learning.
 
 Contains two neural networks built directly from scratch, both trained on the MNIST dataset.
 
