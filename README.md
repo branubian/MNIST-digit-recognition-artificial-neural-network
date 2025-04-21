@@ -1,4 +1,4 @@
-# MNIST digit recognition artificial neural network
+# MNIST digit recognition artificial neural network from scratch
 
 Artificial neural network built from scratch without using pytorch, keras or other machine learning libraries.
 
