@@ -4,7 +4,7 @@ Artificial neural network built from scratch without using pytorch, keras or oth
 
 Run "MNIST 784xn1xn2x10 ReLU Softmax.py" and input the desired training parameters to return accuracy on testing samples, same with the other files.
 
-For best testing accuracy measurement, it is recommended to train with the parameters given in parenthesis.
+For best testing accuracy, train with the parameters given in parenthesis while executing program.
 
 Program slices the MNIST training dataset in "train.csv" into different batches for training and testing and returns 92% accuracy on dataset.
 
